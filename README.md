@@ -3,7 +3,7 @@ NAUFRÁGIO - Ship Event | by DivinuS Mods
 
 # NAUFRÁGIO – Ship Event
 
-![Naufrágio - Ship Event by DivinuS Mods](imagens/banner_1280x640.png)
+![Naufrágio - Ship Event by DivinuS Mods](banner_1280x640.png)
 
 **Evento de naufrágio para servidores DayZ — por DivinuS Mods**
 
