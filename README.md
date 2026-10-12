@@ -112,12 +112,6 @@ Pasta `Profiles/DivinusMods/ShipEvent/Logs/` — um arquivo por início do servi
 
 Somente para os SteamIDs em `AdminsSteamID`:
 
-| Comando | Ação |
-|---|---|
-| `/naufragio criar` | Cria um naufrágio agora |
-| `/naufragio status` | Mostra os naufrágios ativos |
-| `/naufragio limpar` | Remove todos os naufrágios ativos |
-| `/naufragio recarregar` | Recarrega os arquivos de configuração |
 
 ## Compilar
 
