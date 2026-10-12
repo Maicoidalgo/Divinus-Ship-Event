@@ -76,7 +76,6 @@ Todos os arquivos ficam em `Profiles/DivinusMods/ShipEvent/`. Valores `1` = liga
 | `ChaveUsoUnico` | 1 | A chave quebra depois de abrir o contêiner |
 | `ApagarChaveQuebrada` | 1 | A chave quebrada some do inventário |
 | `MarcadorExpansion` / `MarcadorBasicMap` / `MarcadorLBMaster` | 1 | Marcadores de mapa (se o mod estiver instalado) |
-| `ComandoChatAtivo` / `ComandoChat` / `AdminsSteamID` | 1 / `/naufragio` / lista | Comando de admin |
 | `LogsDetalhados` | 1 | Mais detalhes no log |
 
 ### Locais.json
