@@ -116,16 +116,7 @@ Somente para os SteamIDs em `AdminsSteamID`:
 
 Empacote a pasta `DivinusShipEvent` com o Addon Builder do DayZ Tools usando o prefixo `DivinusShipEvent` e assine o PBO com a sua chave.
 
-## Estrutura do repositório
 
-```
-DivinusShipEvent/               código-fonte do mod (config.cpp, scripts, som, ícone)
-profiles/DivinusMods/ShipEvent/ arquivos de configuração de exemplo
-types_chaves.xml                cadastro das chaves para o types.xml
-imagens/                        imagens do projeto
-```
-
----
 
 ## English summary
 
