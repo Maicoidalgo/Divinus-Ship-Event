@@ -107,16 +107,6 @@ Cada `Item` vai para a carga junto com seus `Extras`. Itens de outros mods funci
 
 Pasta `Profiles/DivinusMods/ShipEvent/Logs/` — um arquivo por início do servidor. Registra configuração carregada, erros de nomes de itens/zumbis, local escolhido, contêiner e chave, loot, zumbis, BOSS, notificação, jogadores que chegaram, morte do BOSS, abertura do contêiner, quebra da chave e limpeza. As mesmas linhas aparecem no `script.log` com o prefixo `[DivinuS ShipEvent]`.
 
-## Comandos de admin
-
-Somente para os SteamIDs em `AdminsSteamID`:
-
-
-## Compilar
-
-Empacote a pasta `DivinusShipEvent` com o Addon Builder do DayZ Tools usando o prefixo `DivinusShipEvent` e assine o PBO com a sua chave.
-
-
 
 ## English summary
 
